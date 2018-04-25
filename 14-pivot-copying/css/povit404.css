@@ -1,0 +1,117 @@
+.icon {
+  margin: 0 2px;
+  transition: color 0.1s ease-in-out;
+}
+.icon:hover {
+  color: #812121;
+}
+a {
+  text-decoration: none !important;
+  transition: all 0.4s ease-in-out;
+  color: brown;
+}
+.login_section > a:hover,._404content a:hover {
+  color: #fff;
+  background-color: #7d4646 !important;
+}
+.language img {
+  transform: scale(0.8);
+}
+.w-10 {
+  max-width: 10%;
+}
+nav .border {
+  border-width: 5px !important;
+}
+/* puplic */
+li a,
+a {
+  text-decoration: none !important;
+}
+.social_twitter:hover {
+  color: #1da1f2;
+}
+.social_facebook:hover {
+  color: #3b5998;
+}
+.social_instagram:hover {
+  color: #fd1d1d;
+}
+.social_dribbble:hover {
+  color: #ea4c89;
+}
+.social_tumblr:hover {
+  color: #35465c;
+}
+.social_pinterest:hover {
+  color: #bd081c;
+}
+
+/* header Section */
+/* Start Header */
+.has-dropdown a:after {
+  font-family: ElegantIcons;
+  content: '\33';
+  color: #fff;
+  font-weight: 500;
+  font-variant: normal;
+  text-transform: none;
+  padding: 2px;
+}
+.has_drop_hovered {
+  position: absolute;
+  top: 80px;
+  text-transform: uppercase;
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.4s ease-out;
+  z-index: 1
+}
+.has_drop_hovered.hov_custom {
+  left: 0;
+}
+.has-dropdown:hover > .has_drop_hovered {
+  opacity: 1;
+  visibility: visible;
+}
+.has_drop_hovered a {
+  color: black;
+}
+.collapse {
+  color: #fff !important
+}
+/* 404 */
+.icon404 {
+  font-size: 8rem;
+  animation: spin 6s ease-in-out infinite alternate;
+}
+@keyframes spin {
+  0%,
+  100% {
+    transform: rotate(0deg);
+  }
+  20% {
+    transform: rotate(120deg);
+  }
+  40% {
+    transform: rotate(70deg);
+  }
+  60% {
+    transform: rotate(190deg);
+  }
+  80% {
+    transform: rotate(360deg);
+  }
+}
+.jumbo {
+  font-size: 12rem;
+  font-style: italic;
+}
+h2::first-letter {
+  color: #812121;
+  font-size: 1.8em;
+  font-weight: 300;
+}
+*::selection {
+  background-color: #d14279;
+}
