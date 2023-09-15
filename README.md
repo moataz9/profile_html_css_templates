@@ -1,20 +1,24 @@
-# my-themes
+# Themes Clone
 
-html & css themes
-| some themes have bootstrap.css
+``` link
+https://moataz9.github.io/profile_html_css_templates/
+```
 
-1. boot sweats home page
-2. car dealarship
-3. coffe junkie
-4. foodie resturant
-5. saira arabic theme
-6. resturant
-7. web agency
-8. backroads
-9. tea station
-10. sharqStores
-11. car dealership
-12. coffie
-13. creative - photographer
-14. rocker store
-15. piviot copying
+HTML & CSS themes
+| Some themes have bootstrap.css
+
+1. Boot Sweats home page Clone
+2. car dealership Clone
+3. coffee junkie Clone
+4. foodie restaurants Clone
+5. Saira Arabic theme Clone
+6. restaurant Clone
+7. web agency Clone
+8. backroads Clone
+9. tea station Clone
+10. sharqStores Clone
+11. car dealership Clone
+12. coffee Clone
+13. creative - photographer Clone
+14. rocker store Clone
+15. pivot theme Clone
